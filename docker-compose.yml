@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: docker/web/Dockerfile
+    image: 'localhost:5000/web'
+    volumes:
+      - './docker/web/php.ini:/usr/local/etc/php/php.ini:ro'
+      - '.:/srv/app:rw,cached'
+  nginx:
+    image: nginx
+    ports:
+      - '8182:80'
+    volumes:
+      - './docker/nginx/conf.d:/etc/nginx/conf.d:ro'
+      - '.:/srv/app/'
+    depends_on:
+      - web
+volumes:
+  my-datavolume:
