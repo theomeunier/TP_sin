@@ -7,7 +7,7 @@
 
 .zone1 {
     width:100%; /*dï¿½finit la largeur du div ï¿½ 800 pixels*/
-    height: 170px; /*dï¿½finit la hauteur du div ï¿½ 120 pixels*/
+    height: 250px; /*dï¿½finit la hauteur du div ï¿½ 120 pixels*/
     background-color:#333333; /*couleur de fond Gris foncÃ©*/
 }
 
@@ -91,4 +91,52 @@
     background-color:#333333;
     text-align:center;
     color:#CCCCCC;
+}
+
+.menu{
+
+}
+
+.menu ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.menu li{
+    margin-left: 2px;
+    float: left;
+}
+
+.menu ul li a{
+    display: block;
+    float: left;
+    width: 100px;
+    background-color: #6495ED;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin-left: 5px;
+    border: 2px solid;
+    text-decoration: none;
+    border-color: #DCDCDC #696969 #DCDCDC #696969;
+}
+
+.menu ul li a:hover{
+    background-color: #D3D3D3;
+    border-color: #DCDCDC #696969;
+}
+
+table{
+    width: 100%;
+}
+
+tr th{
+    font-size: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+table hr{
+    width: 30px;
 }
