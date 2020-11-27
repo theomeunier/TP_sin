@@ -60,11 +60,9 @@ RUN set -eux \
     	&& apk del .build-deps
 
 COPY --from=composer /usr/bin/composer /usr/bin/composer
-RUN composer global require hirak/prestissimo
 
 WORKDIR /srv/app
 CMD ["php-fpm"]
 
 COPY . /srv/app
-
-
+COPY .env /srv/app/.env
