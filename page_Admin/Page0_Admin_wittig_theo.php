@@ -35,13 +35,13 @@
         <div class="zone2">
             <h1> S&eacutequence 1 : Arduino</h1>
             <ul>
-                <li><a href="../tp_1/pdf/01_Cours_Arduino.zip" target="">Exemple de fichier Algo </a></li>
+                <li><a href="../pdf/01_Cours_Arduino.zip" target="">Exemple de fichier Algo </a></li>
             </ul>
         </div>
 
         <div class="zone3"><br><br>
             <ul>
-                <li><a href="../tp_1/pdf/01_Cours_algo_devos_Ver25012019.zip" target="">Exemple de fichier Algo </a></li>
+                <li><a href="../pdf/01_Cours_algo_devos_Ver25012019.zip" target="">Exemple de fichier Algo </a></li>
             </ul>
         </div>
     </div>
@@ -50,13 +50,13 @@
         <div class="zone2">
             <h1> S&eacutequence 2 : les algorithmes</h1>
             <ul>
-                <li><a href="../tp_1/pdf/01_Cours_Arduino.zip" target="">Exemple de fichier Algo </a></li>
+                <li><a href="../pdf/01_Cours_Arduino.zip" target="">Exemple de fichier Algo </a></li>
             </ul>
         </div>
 
         <div class="zone3"><br><br>
             <ul>
-                <li><a href="../tp_1/pdf/01_Cours_algo_devos_Ver25012019.zip" target="">Exemple de fichier Algo </a></li>
+                <li><a href="../pdf/01_Cours_algo_devos_Ver25012019.zip" target="">Exemple de fichier Algo </a></li>
             </ul>
         </div>
     </div>
@@ -65,13 +65,13 @@
         <div class="zone2">
             <h1> S&eacutequence 3 : Page web, HTML</h1>
             <ul>
-                <li><a href="../tp_1/pdf/01_Cours_Arduino.zip" target="">Exemple de fichier Algo </a></li>
+                <li><a href="../pdf/01_Cours_Arduino.zip" target="">Exemple de fichier Algo </a></li>
             </ul>
         </div>
 
         <div class="zone3"><br><br>
             <ul>
-                <li><a href="../tp_1/pdf/01_Cours_algo_devos_Ver25012019.zip" target="">Exemple de fichier Algo </a></li>
+                <li><a href="../pdf/01_Cours_algo_devos_Ver25012019.zip" target="">Exemple de fichier Algo </a></li>
             </ul>
         </div>
     </div>
