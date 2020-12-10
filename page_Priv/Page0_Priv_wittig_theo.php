@@ -23,11 +23,10 @@
 
         <div class="menu">
             <ul>
-                <li><a href="Page0_wittig_theo.php">Classeur <br> sin</a></li>
-                <li><a href="Page1_wittig_theo.html">Classeur <br> 2I2D</a></li>
-                <li><a href="Page2_wittig_theo.html">EDT <br> TSTI2D3</a></li>
-                <li><a href="Page3_wittig_theo.html">Page <br> perso</a></li>
-                <li><a href="Page4_wittig_theo.html">admin <br> site</a></li>
+                <li><a href="Page0_Priv_wittig_theo.php">Classeur <br> sin</a></li>
+                <li><a href="Page1_Priv_wittig_theo.php">Classeur <br> 2I2D</a></li>
+                <li><a href="Page2_Priv__wittig_theo.php">EDT <br> TSTI2D3</a></li>
+                <li><a href="Page3_Priv_wittig_theo.php">Page <br> perso</a></li>
             </ul>
         </div>
     </div>

@@ -18,22 +18,21 @@
             <p class="sub_text">email : theo.wittig@free.fr</p>
             <p class="sub_text">Tel : 01 02 03 04 05</p>
         </div>
+
         <hr>
 
         <div class="menu">
             <ul>
-                <li><a href="Page0_wittig_theo.php">Classeur <br> sin</a></li>
-                <li><a href="Page1_wittig_theo.html">Classeur <br> 2I2D</a></li>
-                <li><a href="Page2_wittig_theo.html">EDT <br> TSTI2D3</a></li>
-                <li><a href="Page3_wittig_theo.html">Page <br> perso</a></li>
-                <li><a href="Page4_wittig_theo.html">admin <br> site</a></li>
-                <li><a href="../Page5_wittig_theo.php">login</a></li>
+                <li><a href="Page0_Admin_wittig_theo.php">Classeur <br> sin</a></li>
+                <li><a href="Page1_Admin_wittig_theo.php">Classeur <br> 2I2D</a></li>
+                <li><a href="Page2_Admin_wittig_theo.php">EDT <br> TSTI2D3</a></li>
+                <li><a href="Page3_Admin_wittig_theo.php">Page <br> perso</a></li>
+                <li><a href="Page4_Admin_wittig_theo.php">admin <br> site</a></li>
             </ul>
         </div>
-
     </div>
 
-    <h1>Classeur 2I2D</h1>
+    <h1>Page perso</h1>
 
     <div class="zone4">
         <p>Date de cr&eacuteation : 18/11/2020</p>

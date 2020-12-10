@@ -21,14 +21,14 @@ if (isset($_POST['valider'])) {  //ATTENTION le "$_POST['valider']" ici fait le 
             echo "acces" . $_SESSION['acces'];
             if ($_SESSION['acces'] == 2) {
                 //si accès type 2 on affiche la page 1 admin
-                header("Location: page_Admin/page0_Admin.php?id=" . $_SESSION['id']);
+                header("Location: page_Admin/page0_Admin_wittig_theo.php?id=" . $_SESSION['id']);
             } else {
                 if ($_SESSION['acces'] == 1) {
                     //si accès type 1 on affiche la page 1 priv
-                    header("Location: page_Priv/page0_Priv.php?id=" . $_SESSION['id']);
+                    header("Location: page_Priv/page0_Priv_wittig_theo.php?id=" . $_SESSION['id']);
                 } else {
                     //si accès type 0 on affiche la page 1 autre
-                    header("Location: page_Autre/page0_Autre.php?id=" . $_SESSION['id']);
+                    header("Location: page_Autre/page0_Autre_wittig_theo.php?id=" . $_SESSION['id']);
                 }
             }
         } else {
@@ -71,7 +71,7 @@ if (isset($_POST['valider'])) {  //ATTENTION le "$_POST['valider']" ici fait le 
             echo '<font color="red">' . $erreur . "</font>";
         }
         ?>
-        <form method="post" action=" ">
+        <form method="post" action="">
             <input type="text" name="login" placeholder="login" />
             <input type="text" name="mdp" placeholder="Mot de passe" />
             <br />
