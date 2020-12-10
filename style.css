@@ -93,6 +93,15 @@
     color:#CCCCCC;
 }
 
+.zone5 {/*zone avec emplois du temps*/
+    float: left; /*place le div = gauche de la page*/
+    width: 800px; /*définit la largeur du div = 500 pixels*/
+    height: 200px;
+    text-align: center;
+    background-color: #cccccc;
+    color: #333333;
+}
+
 .menu{
 
 }

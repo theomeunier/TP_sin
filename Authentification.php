@@ -71,9 +71,10 @@ if (isset($_POST['valider'])) {  //ATTENTION le "$_POST['valider']" ici fait le 
             echo '<font color="red">' . $erreur . "</font>";
         }
         ?>
-        <form method="post" action="">
+        <form method="post" action="" style="margin-top: 5em">
             <input type="text" name="login" placeholder="login" />
             <input type="text" name="mdp" placeholder="Mot de passe" />
+            <br />
             <br />
             <button type="submit" name="valider">Se connecter</button>
         </form>
